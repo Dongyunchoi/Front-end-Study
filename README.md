@@ -5,14 +5,13 @@
 
 #### Google
 
-[![구글](./google.png)](https://google.com, "구글 홈페이지로 이동합니다")
+[![구글](./google.png){200x100}](https://google.com "구글 홈페이지로 이동합니다")
 
 
 #### Naver
 
-[![네이버](./naver.png)](https://naver.com, "네이버 홈페이지로 이동합니다")
+<a href="https://naver.com/"><img src="./naver.png" alt="네이버"></a>
 
 #### Daum
 
-[![다음](./Daum.svg.png)](https://daum.net, "다음 홈페이지로 이동합니다")
-
+<a href="https://daum.net/"><img src="./Daum.svg.png" alt="다음" width="200px" height="100px" ></a>
